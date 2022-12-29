@@ -1,0 +1,1 @@
+This version don't include CE because it isn't developed yet.
