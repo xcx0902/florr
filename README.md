@@ -2,5 +2,4 @@
 Local florr.io with Cheat Engine
 
 ### How to use?
-
-TODO
+Please see our [wiki](wiki) to know more.
