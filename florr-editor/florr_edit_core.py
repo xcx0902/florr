@@ -2,7 +2,7 @@ import pymem.exception
 from pymem import Pymem
 import psutil
 
-petal_ids = {'Basic': 1, 'Light': 2, 'Rock': 3, 'Square': 4, 'Rose': 5, 'Stinger': 6, 'Iris': 7, 'Wing': 8, 'Missile': 9, 'Grapes': 10, 'Cactus': 11, 'Faster': 12, 'Bubble': 13, 'Pollen': 14, 'Dandelion': 15, 'Egg': 16, 'Antennae': 17, 'Heavy': 18, 'YinYang': 19, 'Web': 20, 'Honey': 21, 'Leaf': 22, 'Salt': 23, 'Rice': 24, 'Corn': 25, 'Sand': 26, 'Pincer': 27, 'Yucca': 28, 'Magnet': 29, 'Yggdrasil': 30, 'Starfish': 31, 'Pearl': 32, 'Lightning': 33, 'Jelly': 34, 'Claw': 35, 'Shell': 36, 'Cutter': 37, 'Dahlia': 38, 'Uranium': 39, 'Sponge': 40, 'Soil': 41, 'Fangs': 42, 'ThirdEye': 43, 'Peas': 44, 'Stick': 45, 'Clover': 46, 'Powder': 47, 'Air': 48}
+petal_ids = {'Basic': 1, 'Light': 2, 'Rock': 3, 'Square': 4, 'Rose': 5, 'Stinger': 6, 'Iris': 7, 'Wing': 8, 'Missile': 9, 'Grapes': 10, 'Cactus': 11, 'Faster': 12, 'Bubble': 13, 'Pollen': 14, 'Dandelion': 15, 'Egg': 16, 'Antennae': 17, 'Heavy': 18, 'YinYang': 19, 'Web': 20, 'Honey': 21, 'Leaf': 22, 'Salt': 23, 'Rice': 24, 'Corn': 25, 'Sand': 26, 'Pincer': 27, 'Yucca': 28, 'Magnet': 29, 'Yggdrasil': 30, 'Starfish': 31, 'Pearl': 32, 'Lightning': 33, 'Jelly': 34, 'Claw': 35, 'Shell': 36, 'Cutter': 37, 'Dahlia': 38, 'Uranium': 39, 'Sponge': 40, 'Soil': 41, 'Fangs': 42, 'ThirdEye': 43, 'Peas': 44, 'Stick': 45, 'Clover': 46, 'Powder': 47, 'Air': 48, 'Basil': 49, 'Orange': 50}
 
 petal_levels = {'Common': 1, 'Unusual': 2, 'Rare': 3, 'Epic': 4, 'Legendary': 5, 'Mythic': 6, 'Ultra': 7, 'Super': 8}
 
