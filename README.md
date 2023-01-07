@@ -1,7 +1,12 @@
-# Local-florr-with-CE
-Local florr.io with Cheat Engine
+# Florr Tools
+
+Including:
+
+- Local florr with CE
+- Florr Editor
+- Florr Helper
 
 ### How to use?
-Please see our [wiki](https://github.com/xcx0902/Local-florr-with-CE/wiki) to know more.
+Please see our [wiki](https://github.com/xcx0902/florr-tools/wiki) to know more.
 
-同步网站：<https://gitee.com/xcx0902/Local-florr-with-CE>
+同步网站：<https://gitee.com/xcx0902/florr-tools>
